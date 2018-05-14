@@ -4,15 +4,19 @@ FilterSelect{
     border-width: 1;
     border-color: #ccc;
     border-radius: 5; 
+    font-family:"Times New Roman";
+
 }
 .btn-filter-select{
    vertical-align: top;
    align-content: center;
    margin: 0;
    padding: 1;
+  font-family:"Times New Roman";
+
 }
 .fa {
-  font-family: FontAwesome, fontawesome-webfont;
+    font-family:"Times New Roman";
 }
 
 .filter-select-tag-delete{
@@ -37,6 +41,8 @@ FilterSelect{
     border-radius: 20;
     border-color: #ccc;
     border-width: 1;
+    font-family:"Times New Roman";
+
 }
 .filter-select-tag-label{
     horizontal-align: right;
@@ -45,15 +51,21 @@ FilterSelect{
 
 .filter-select-list label{
   padding: 20;
+    font-family:"Times New Roman";
+
 }
 
 .filter-select-list{
   margin: 2;
+    font-family:"Times New Roman";
+
 }
 .filter-select-hint{
 vertical-align: middle;
 text-align: center;
 margin-top: 8;
+    font-family:"Times New Roman";
+
 }
 
 FilterSelect.disabled{
@@ -63,12 +75,17 @@ FilterSelect.disabled{
 .item.filter-select-selected{
     border-width: 1;
     border-color: green;
+    font-family:"Times New Roman";
+
 }
 
 
 .filter-select-label{
     height: auto;
-    padding: 5;
+    padding-top: 5;
+    padding-bottom: 5;
+    font-family:"Times New Roman";
+
 }
 .filter-select-label.hint{
     color:rgb(82, 82, 82);
